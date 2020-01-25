@@ -32,7 +32,8 @@ else:
      model_path = sys.argv[6]
 
 # In[2]:
-
+import warnings
+warnings.filterwarnings("ignore")
 
 # Set the ROOT_DIR variable to the root directory of the Mask_RCNN git repo
 ROOT_DIR = '../Mask_RCNN'
