@@ -21,7 +21,9 @@ http://cocodataset.org/#download
 2. Place annotations to annotation directory 
 
 3. In PythonAPI directory install dependencies:
+```console
 	pip3 install -r requirements.txt
+```
 
 4. Paste photos which you want to validate to the real_test directory
 
