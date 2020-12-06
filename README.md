@@ -1,3 +1,6 @@
+**The exact documentation can be found in files project_description.pdf and documentation.pdf**
+
+
 # Image-Recognition-MascRCNN
 Project for Image Recognition class. The aim is to detect human on photos and mark them with the border.
 
